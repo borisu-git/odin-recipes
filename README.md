@@ -1,0 +1,1 @@
+C'est le premier projet à réaliser pour The Odin Project, ça permet de mettre en place les bases de HTML qu'on a appris jusqu'a maintenant. Il va s'agir juste d'un sites basique comprenant quelques recettes de cuisine.
